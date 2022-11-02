@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-# My LeetCode solutions
+# My LeetCode Solutions
 
-This repository was created as a place to store all of my LeetCode solutions on GitHub. I hope that if people come across this repository or maybe get stuck on some problems I have completed that they may find help here. With that in mind, this repository hasn't been designed to be a tutorial repository so may not be the most user friendly. However, I hope it helps!
+This repository was created as a place to store all of my LeetCode solutions on GitHub. I hope that if people come across this repository, or maybe get stuck on some problems I have completed, that they may find help here. With that in mind, this repository hasn't been designed to be a tutorial repository so may not be the most user friendly. However, I hope it helps!
 
-This repository was created thanks to the [leetcode-sync](https://github.com/joshcai/leetcode-sync) workflow. Check out their repository to find out how to set up your own. Happy coding :)
+This repository was created thanks to the [leetcode-sync](https://github.com/joshcai/leetcode-sync) workflow. Check out their repository to find out how to set up your own and as always happy coding!
 
 ## Contact
 
