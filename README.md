@@ -6,6 +6,8 @@ This repository was created as a place to store all of my LeetCode solutions on 
 
 This repository was created thanks to the [leetcode-sync](https://github.com/joshcai/leetcode-sync) workflow. Check out their repository to find out how to set up your own and as always happy coding!
 
+_Note - Every two weeks the secrets for the GitHub action, that require a CSRF token and a Session token from Leetcode, expeire. This is the cause of any failed github action runs._
+
 ## Contact
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_pattisoj)
